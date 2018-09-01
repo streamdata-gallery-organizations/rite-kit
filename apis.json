@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Rite Kit",
+	"description": "This is a repository of rite kit APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/rite-kit.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-31",
+	"url": "http://rite-kit.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Rite Kit",
+			"x-api-slug": "rite-kit",
+			"description": "",
+			"image": "",
+			"humanURL": "http://ritekit.com",
+			"baseURL": "https://api.ritekit.com//",
+			"tags": "Rite Kit",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/rite-kit/master/_listings/rite-kit/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Rite Kit",
+	"include": [
+		{
+			"name": "Rite Kit",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/rite-kit/master/_listings/rite-kit/apis.yaml"
+		}
+	]
+}
